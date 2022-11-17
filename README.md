@@ -1,4 +1,4 @@
-print("- Hi, I’m @NoahFilms")
+print("- Hi, I’m @Noah")
 
 print("- I’m interested in python and hacking and bash script")
 
