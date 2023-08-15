@@ -2,6 +2,6 @@
 
 Founders and CEO of OverlordPMC
   
-![OverlordPMC](https://pbs.twimg.com/profile_banners/1628816319658225666/1677872508/1500x500)
+
   
   
