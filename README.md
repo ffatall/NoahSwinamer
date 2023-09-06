@@ -1,8 +1,8 @@
-# hi i'm noah
+# Hi i'm Noah
 
-## download code
+## Download Code
 
-| Command | Description |
+| Command | Clone url |
 | --- | --- |
 | git clone | https://github.com/NoahSwinamer/trash-script-windows |
 | git clone | https://github.com/NoahSwinamer/trash-script-.git |
