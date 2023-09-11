@@ -8,3 +8,5 @@
 | git clone | https://github.com/NoahSwinamer/trash-script-.git |
 | git clone | https://github.com/NoahSwinamer/WinTools.git |
 
+![github-wrapped](https://api.githubtrends.io/user/svg/NoahSwinamer/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)
+
