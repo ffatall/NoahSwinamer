@@ -8,5 +8,5 @@
 | git clone | https://github.com/NoahSwinamer/trash-script-.git |
 | git clone | https://github.com/NoahSwinamer/WinTools.git |
 
-![github-wrapped](https://api.githubtrends.io/user/svg/NoahSwinamer/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)
+![github-wrapped](<a href="https://www.buymeacoffee.com/noahswinamer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>)
 
